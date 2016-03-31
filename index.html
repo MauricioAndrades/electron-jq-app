@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Electron boilerplate</title>
+	<link rel="stylesheet" href="index.css">
+	<script src="https://embed.tonicdev.com"></script>
+	<script>
+	var notebook = Tonic.createNotebook({
+	    // the parent element for the new notebook
+	    element: document.getElementById("my-element"),
+
+	    // specify the source of the notebook
+	    source: "\"hello world\""
+	})
+	</script>
+</head>
+<body>
+	<div class="container">
+		<header>
+			<h1></h1>
+		</header>
+
+
+		<section class="main">
+		<script src="lib/embed-tonic.js" data-element-id="my-element"></script>
+		<!-- <script src="/tonic-inject.js"></script> -->
+		<!-- anywhere else on your page -->
+		<div id="my-element">
+
+		</div>
+		</section>
+
+
+		<footer></footer>
+	</div>
+</body>
+</html>

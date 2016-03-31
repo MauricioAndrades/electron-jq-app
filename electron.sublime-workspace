@@ -1,0 +1,991 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"this",
+				"thisChild"
+			],
+			[
+				"obj",
+				"mod.js.obj.key.sublime-snippet"
+			],
+			[
+				"Sele",
+				"SelectToBegoflineCommand	(select-line.py)"
+			],
+			[
+				"draw_",
+				"draw_white_space	(Preferences.sublime-settings)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 259.0,
+		"last_filter": "python",
+		"selected_items":
+		[
+			[
+				"python",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"syntax  babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bable",
+				"Babel Transform"
+			],
+			[
+				"sub",
+				"Sublimerge: Show Unsaved Changes"
+			],
+			[
+				"tag for",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"encoding",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"trimtr",
+				"trim: leading AND trailing whitespace."
+			],
+			[
+				"deleteem",
+				"trim: Delete empty lines."
+			],
+			[
+				"prety",
+				"prettyjson: Format"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"Format",
+				"prettyjson: Format"
+			],
+			[
+				"jshin",
+				"JSHint"
+			],
+			[
+				"encodin",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"unique",
+				"Permute Lines: Unique"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"syn shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"emptylin",
+				"trim: Delete empty lines."
+			],
+			[
+				"manpa",
+				"Set Syntax: Man Page Preview"
+			],
+			[
+				"emptyl",
+				"trim: Delete empty lines."
+			],
+			[
+				"encodni",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"format",
+				"format: js"
+			],
+			[
+				"formatjs",
+				"format: js"
+			],
+			[
+				"pretty",
+				"prettyjson: Format"
+			],
+			[
+				"syntax bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"syntax mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"file",
+				"File: Delete"
+			],
+			[
+				"synbab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"newfil",
+				"File: New File"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"lineen",
+				"Line Ending: Unix"
+			],
+			[
+				"jshi",
+				"JSHint"
+			],
+			[
+				"ascii",
+				"Preferences: Ascii Replacer Key Bindings – Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax man",
+				"Set Syntax: Man Page Preview"
+			],
+			[
+				"prefedi",
+				"PrefEdit: Edit Settings — All"
+			],
+			[
+				"auto",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"aut",
+				"Auto Wrap: Toggle"
+			],
+			[
+				"epr",
+				"PRV: Edit Package Resource"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"epr ",
+				"PRV: Edit Package Resource"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"alignT",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"statu",
+				"View: Toggle Status Bar"
+			],
+			[
+				"book",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"syntax mul",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"syntax jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"subl",
+				"Sublimerge"
+			],
+			[
+				"async",
+				"Snippet: async-series"
+			],
+			[
+				"snippet",
+				"New Snippet…"
+			],
+			[
+				"mult",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"syntax md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"asyncsn",
+				"Snippet: async.series: invoke async functions sequentially"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"settingsall",
+				"PrefEdit: Edit Settings — All"
+			],
+			[
+				"dist",
+				"View: Toggle Distraction Free Mode"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"prefed",
+				"PrefEdit: Edit Settings — All"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"markdown gfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"rein",
+				"Indent: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Tab Width: 4"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sublime",
+				"Sublimerge: Compare to Clipboard"
+			],
+			[
+				"copy file ",
+				"path: Copy File Path"
+			],
+			[
+				"syntax ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"faves add",
+				"Faves: Add File(s)"
+			],
+			[
+				"fav",
+				"Faves: Add File(s)"
+			],
+			[
+				".jq",
+				"prettyjson: ./jq"
+			],
+			[
+				"tree",
+				"JSONtree: show tree"
+			],
+			[
+				"trim",
+				"trim: Delete empty lines."
+			],
+			[
+				"trim trial",
+				"trim: leading AND trailing whitespace."
+			],
+			[
+				"line endin",
+				"Line Endings: Unix"
+			],
+			[
+				"forma",
+				"format: js"
+			],
+			[
+				"syntax j",
+				"Set Syntax: JSON"
+			],
+			[
+				"codebl",
+				"Snippet: mod.wrap.md.codeblock"
+			],
+			[
+				"prefeedit",
+				"PrefEdit: Edit Settings — Current Project"
+			],
+			[
+				"settings",
+				"PrefEdit: Edit Settings — Distraction Free"
+			],
+			[
+				"convert to",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"multim",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"colo",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"copy file",
+				"path: Copy File Directory"
+			],
+			[
+				"valid",
+				"prettyjson: Validate"
+			],
+			[
+				"valida",
+				"prettyjson: Validate"
+			],
+			[
+				"user ",
+				"commands-user"
+			],
+			[
+				"edit",
+				"PRV: Edit Package Resource"
+			],
+			[
+				"default ",
+				"commands-default"
+			],
+			[
+				"reindn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"convert to ",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"pref",
+				"PrefEdit: Edit Settings — All"
+			],
+			[
+				"prv",
+				"PRV: Edit Package Resource"
+			],
+			[
+				"node",
+				"Nodejs::NPM::Command"
+			],
+			[
+				"npm",
+				"Nodejs::NPM::List"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spaces",
+				"Indentation: Use Spaces"
+			],
+			[
+				"npm ls",
+				"Nodejs::NPM::List"
+			],
+			[
+				"distr",
+				"View: Toggle Distraction Free Mode"
+			],
+			[
+				"prefedit dis",
+				"PrefEdit: Edit Settings — All"
+			],
+			[
+				"edit pref",
+				"PrefEdit: Edit Settings — Preferences"
+			],
+			[
+				"lined",
+				"Line Endings: Unix"
+			],
+			[
+				"settings dis",
+				"PrefEdit: Edit Settings — Distraction Free"
+			],
+			[
+				"distrac",
+				"View: Toggle Distraction Free Mode"
+			],
+			[
+				"syn mak",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"file:d",
+				"File: Delete"
+			],
+			[
+				"edital",
+				"PrefEdit: Edit Settings — All"
+			],
+			[
+				"editall",
+				"PrefEdit: Edit Settings — All"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa sa",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"unify",
+				"Line Endings Unify"
+			],
+			[
+				"nodej",
+				"Nodejs::NPM::List"
+			],
+			[
+				"build",
+				"Nodejs::Build Completions"
+			],
+			[
+				"nodje",
+				"Nodejs::Build Completions"
+			],
+			[
+				"nodejs",
+				"Nodejs::Build Completions"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pep8",
+				"Pep8 Format"
+			],
+			[
+				"fixim",
+				"Python Fix Imports"
+			],
+			[
+				"pep",
+				"Pep8 Format"
+			],
+			[
+				"fix",
+				"Python Fix Imports"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 239.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"window.run_command(\"chain\",{\"commands\":[[\"select_all\"],[\"copy\"]]})"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/js"
+	],
+	"file_history":
+	[
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/unifix.py",
+		"/usr/local/lib/node_modules/traverse/readme.markdown",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/node_modules/jsesc/jsesc.js",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/tonic/tonic-wget/embed.tonicdev.com/index.html",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/notes",
+		"/Users/Op/Documents/gschool/dev-tools/github-clones/jqplay/README.md",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/tonic/tonic-wget/tonicdev.com/index.html",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Default.sublime-commands",
+		"/Users/Op/Desktop/domJSON-working.js",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Themes/modmonokaiJS2.tmTheme",
+		"/Users/Op/Desktop/tonic/embed.tonicdev.com/index.html",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/index.html",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/tonic-inject.js",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/browserify.mdown",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/package.json",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/lib/nightmare-bundle.js",
+		"/Users/Op/Desktop/grunt-autoprefixer",
+		"/tmp/subl stdin rva2I2.txt",
+		"/Users/Op/Downloads/akiee-0.0.3-mac-x64/README.md",
+		"/Users/Op/.zshrc",
+		"/Users/Op/Documents/modman/ack.mmd",
+		"/Users/Op/.bashrc",
+		"/Users/Op/Documents/gschool/dev-tools/node-modules",
+		"/Users/Op/Documents/gschool/dev-tools/.gitignore",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/JavaScript (Babel).sublime-settings",
+		"/Users/Op/bin/electron-v0.37.3-darwin-x64-symbols/version",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/node_modules/nightmare/package.json",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/tonic/scripts/javascript.js",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/tonic/scripts/htmlmixed.js",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/tonic/scripts/embed.js",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/tonic/scripts/codemirror.js",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/cwk4eab.js",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/tonic.js",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/AsciiReplacer/Default (OSX).sublime-keymap",
+		"/Users/Op/Documents/gschool/dev-tools/github-clones/jqplay/main.go",
+		"/Users/Op/Documents/gschool/dev-tools/sed-one-liners.mmd",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/async-series.sublime-snippet",
+		"/usr/local/lib/node_modules/browserify/readme.markdown",
+		"/tmp/subl stdin ud9OHB.txt",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Sublime Key Map.sublime-settings",
+		"/Users/Op/Documents/modman/jq.mmd",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/js/shell.js",
+		"/usr/local/lib/node_modules/browserify/jq",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/AutoWrap/README.md",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Sublime Settings.sublime-settings",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/AutoWrap/Main.sublime-menu",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Op/Downloads/console (1).json",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Themes/MarkdownEditor-Dark.tmTheme",
+		"/Users/Op/Desktop/mancy-bundles/monokai.json",
+		"/Users/Op/Documents/gschool/dev-tools/electron/electron-boilerplate/boilerplate/lib/mod-traverse.js",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Default/Default.sublime-commands",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Default/Encoding.sublime-menu",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Default/Widget.sublime-settings",
+		"/tmp/subl stdin oyUPA6.txt",
+		"/Users/Op/Documents/gschool/dev-tools/sed",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Themes/md.tmTheme",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/Default (Linux).sublime-keymap",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/Default (OSX).sublime-keymap",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.py",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Shell-Unix-Generic.sublime-settings",
+		"/Users/Op/Documents/gschool/debug/express-bin/ex.sublime-workspace",
+		"/Users/Op/Documents/gschool/debug/express-bin/xraybundle.js",
+		"/Applications/Sublime Text.app/Contents/MacOS/sublime.py",
+		"/Applications/Sublime Text.app/Contents/MacOS/plugin_host",
+		"/Users/Op/.zsrch",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.sublime-settings",
+		"/usr/local/lib/node_modules/fixpack/README.md",
+		"/Users/Op/Documents/gschool/debug/express-bin/package.json",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/package.json",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/__init__.py",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/Nodejs.message",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/tools/default_build.js",
+		"/Users/Op/Documents/gschool/debug/express-bin/bin/browserify-bundles/cheeriobundle.js",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/Default.sublime-commands",
+		"/Users/Op/Documents/gschool/dev-tools/docs/jshint/jshint.com/docs/options.orig",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Nodejs/.nvmrc",
+		"/Users/Op/Desktop/mancy-bundles/modules.js",
+		"/Users/Op/.oh-my-zsh/themes/agnoster",
+		"/Users/Op/.oh-my-zsh/themes/agnoster.zsh-theme",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Sublimerge Pro/Default (OSX).sublime-keymap",
+		"/usr/local/lib/node_modules/iron-node/node_modules/tunnel-agent/index.js",
+		"/usr/local/lib/node_modules/iron-node/node_modules/request/request.js",
+		"/usr/local/lib/node_modules/iron-node/node_modules/utila/lib/object.js",
+		"/Users/Op/Documents/gschool/debug/express-bin/Gruntfile.js",
+		"/Users/Op/Documents/gschool/debug/express-bin/.jshintrc",
+		"/usr/local/lib/node_modules/shelljs/README.md",
+		"/Users/Op/Documents/gschool/debug/express-bin/node_modules/nopt/bin/nopt.js",
+		"/usr/local/lib/node_modules/iron-node/node_modules/nopt/examples/my-program.js",
+		"/usr/local/lib/node_modules/iron-node/node_modules/normalize-package-data/lib/fixer.js",
+		"/usr/local/lib/node_modules/iron-node/node_modules/parse-json/vendor/parse.js",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/usr/local/lib/node_modules/iron-node/node_modules/parse-json/vendor/unicode.js",
+		"/Users/Op/Documents/gschool/debug/express-bin/appbundle.js",
+		"/Users/Op/Library/Application Support/iron-node/node_modules/config.js",
+		"/usr/local/lib/node_modules/iron-node/app/update.js",
+		"/usr/local/lib/node_modules/iron-node/app/require.js",
+		"/Users/Op/Library/Application Support/iron-node/node_modules/untitled.js",
+		"/usr/local/lib/node_modules/iron-node/app/package.json",
+		"/usr/local/lib/node_modules/bundle.js",
+		"/usr/local/lib/node_modules/iron-node/README.md",
+		"/usr/local/lib/node_modules/iron-node/package.json",
+		"/usr/local/lib/node_modules/iron-node/bin/run.js",
+		"/usr/local/lib/node_modules/iron-node/app/app.js",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/FavoriteFiles/Default.sublime-commands",
+		"/tmp/subl stdin MjBmPr.txt",
+		"/Users/Op/Desktop/default-prefs.json",
+		"/Users/Op/Documents/modman/qmv.mmd",
+		"/Users/Op/Documents/gschool/debug/express-bin/cheeriobundle.js",
+		"/Users/Op/Desktop/whatever/package.json",
+		"/Users/Op/Documents/gschool/dev-tools/somecommands.txt",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/Chain of Command/README.md",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/template.chain.sublime-snippet",
+		"/Users/Op/Documents/modman/qmv-.mmd",
+		"/Users/Op/Documents/gschool/debug/express-bin/bin/json-dom.js",
+		"/Users/Op/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/var/folders/_9/122ywpqj1v5dxn7pwzfmfqmh0000gn/T/qmv3v54ki",
+		"/var/folders/_9/122ywpqj1v5dxn7pwzfmfqmh0000gn/T/qmv6q26po",
+		"/Users/Op/Documents/gschool/debug/express-bin/index.html",
+		"/Users/Op/Documents/gschool/dev-tools/gitcommands.md"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"entity.name.function.js",
+			"source.js meta.group.braces.round.js meta.group.braces.curly.js meta.function.js entity.name.function.js",
+			"source.js meta.group.braces.round.js meta.group.braces.curly.js meta.function.js entity.name.function.js ",
+			"grunt-\\w+(-)?\\w+",
+			"grunt-\\w+(-)?\\w+(?\\cJ)",
+			"\\cj",
+			"(?>-).+\\S?\\w+",
+			"depth",
+			"escape",
+			"ln",
+			"link",
+			"<a name",
+			"word",
+			"bookmark",
+			"move.*by",
+			"pages",
+			"move",
+			"if(kids.length)",
+			"if(kids.length",
+			"tojson",
+			"kid.count",
+			"documentBody",
+			"kid",
+			"^[[:upper:]]$",
+			"(?!\\n)[[:upper:]]*(\\s)?+^",
+			"^[[:upper:]]+(\\s)(?=!\\n)([[:upper:]]+)(?!=\\n)",
+			"ull",
+			"null",
+			"recursive",
+			"\\n(?!\\s)",
+			"(?!\\n)^(\\s+)?(o)?\\s+\\-\\-\\w+(?>:\\n)",
+			"(\\s+)?(o)?\\s+\\-\\-\\w+(?:\\r)",
+			"(\\s+)?(o)?\\s+\\-\\-\\w+(?:\\n)",
+			"(\\s+)?(o)?\\s+\\-\\-\\w+(?>\\n)",
+			"\n#",
+			"\\},\\n",
+			"},\\n",
+			"\\n",
+			"Indentation",
+			"indent",
+			"npm",
+			"path",
+			"191919",
+			"::",
+			"Nodejs",
+			"es6",
+			"un",
+			"\\\\>>",
+			">>",
+			"arrow",
+			"global",
+			"Favorite",
+			"lodash",
+			"(?<=\\{).*(?=\\},\\n)",
+			"],",
+			"],}",
+			"\"\\w+\":.*(?=,).*\\n",
+			"\"\\w+\":.*(?=,)",
+			"\\b.*$",
+			",]",
+			",,",
+			"(?<=\"command\": ).*(?=\\])",
+			"(?<=\"command\": )\\w+",
+			"(?!= :)\\w+",
+			"swi_mouse",
+			",(?=\\n)",
+			"sublime.log:\\d+:",
+			"(?<!\")command",
+			"sublimelog.txt:\\d+:",
+			"sublimelog.txt:670:",
+			"^(\\s{0,10})",
+			"^\\w+.+:(?>\\s{2,4})",
+			"print",
+			"value",
+			"noop",
+			"command",
+			"theme",
+			"source",
+			"Indent Respectful Sort",
+			"Collapse",
+			"Delete",
+			"Trim",
+			"Trimmer",
+			"trimmer",
+			"Trimmer",
+			"json",
+			"\\s+",
+			",$",
+			"context",
+			"^\"context",
+			"context",
+			"\\},",
+			"\\n",
+			"(?<=\\[)\\n\\s+",
+			"\\n\\s+(?=\\])",
+			"(?:!\\[)\\n\\s+\\n\\s+(?=\\])",
+			"(?=\\{)\\n",
+			"\\n\\s+",
+			"caretPos = self.view.sel()[0].begin()\n",
+			"super+shift",
+			"\\s+//.*(?:\\n)",
+			"//.*$",
+			"//",
+			"option",
+			"default",
+			"width",
+			"open",
+			"get",
+			"spaces",
+			"buff",
+			"guess",
+			"GitGutter",
+			"foreground",
+			"(?<=<string>)#.*(?=<)",
+			"\\n\\t\\t\\t\\t",
+			"\\n\\t\\t\\t\\t\\t, ",
+			"white",
+			"whites",
+			"line",
+			"nothing ",
+			"/",
+			"^:\\s\\d+:\\d;",
+			": 1456174002:0;",
+			": 1456174002:0",
+			"^:\\s\\d+:\\d",
+			"alias wd",
+			"--editor",
+			"^alias"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			":",
+			"]},",
+			"],",
+			",",
+			"",
+			" ",
+			"",
+			"/usr/local/bin/git"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 550.0
+	},
+	"output.preferences_editor_help":
+	{
+		"height": 186.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"project": "electron.sublime-project",
+	"replace":
+	{
+		"height": 84.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"lib/nightmare-bundle.js"
+			],
+			[
+				"j",
+				"~/Documents/modman/jq.mmd"
+			],
+			[
+				"unti",
+				"return filter.indexOf(val)"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
