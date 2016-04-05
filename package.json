@@ -28,8 +28,9 @@
   "dependencies": {
     "describe-json": "0.0.6",
     "electron-debug": "^0.5.2",
+    "electron-window": "^0.6.2",
+    "fix-path": "^1.1.0",
     "json-translate": "0.0.2",
-    "lib": "^1.0.0",
     "ramda": "^0.20.1",
     "shelljs": "^0.6.0"
   },

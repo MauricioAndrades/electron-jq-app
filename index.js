@@ -24,7 +24,6 @@ function createMainWindow() {
 	});
 
 	win.loadURL(`file://${__dirname}/index.html`);
-	win.loadURL(`file://${__dirname}/lib/embed-tonic.js`);
 	win.on('closed', onClosed);
 
 	return win;
