@@ -1,6 +1,6 @@
 # app
 
-> My superb app
+> converting jq for use in electron app
 
 
 ## Dev
@@ -21,9 +21,4 @@ $ npm start
 $ npm run build
 ```
 
-Builds the app for OS X, Linux, and Windows, using [electron-packager](https://github.com/maxogden/electron-packager).
-
-
-## License
-
-MIT © [<%= name %>](<%= website %>)
+Builds the app for OS X, Linux, and Windows, using [electron-packager](https://github.com/maxogden/electron-packager)
